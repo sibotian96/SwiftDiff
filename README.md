@@ -44,3 +44,12 @@ Complete documentation and code will be available when the paper is published.
 ![](assets/SwiftDiff_DanceDB.gif)
 ##### SwiftDiff_balance
 ![](assets/SwiftDiff_Balance_DanceDB.gif)
+#### 5. AMASS -- DFaust
+##### TransFusion
+![](assets/TransFusion_DFaust.gif)
+##### One-step TransFusion
+![](assets/One_Step_TransFusion_DFaust.gif)
+##### SwiftDiff
+![](assets/SwiftDiff_DFaust.gif)
+##### SwiftDiff_balance
+![](assets/SwiftDiff_Balance_DFaust.gif)
