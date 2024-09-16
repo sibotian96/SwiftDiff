@@ -8,8 +8,6 @@ Complete documentation and code will be available when the paper is published.
 
 ## 🎞 Demos of Human Motion Prediction
 
-More prediction demos can be found in `./assets`.
-
 #### 1. Human3.6M -- Walking
 ##### TransFusion
 ![](assets/TransFusion_Walking.gif)
@@ -28,3 +26,12 @@ More prediction demos can be found in `./assets`.
 ![](assets/SwiftDiff_WalkTogether.gif)
 ##### SwiftDiff_balance
 ![](assets/SwiftDiff_Balance_WalkTogether.gif)
+#### 2. Human3.6M -- Photo
+##### TransFusion
+![](assets/TransFusion_Photo.gif)
+##### One-step TransFusion
+![](assets/One_Step_TransFusion_Photo.gif)
+##### SwiftDiff
+![](assets/SwiftDiff_Photo.gif)
+##### SwiftDiff_balance
+![](assets/SwiftDiff_Balance_Photo.gif)
