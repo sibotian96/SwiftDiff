@@ -41,6 +41,6 @@ Complete documentation and code will be available when the paper is published.
 ##### One-step TransFusion
 ![](assets/One_Step_TransFusion_DanceDB.gif)
 ##### SwiftDiff
-![](assets/SwiftDiff_Photo.gif)
+![](assets/SwiftDiff_DanceDB.gif)
 ##### SwiftDiff_balance
-![](assets/SwiftDiff_Balance_Photo.gif)
+![](assets/SwiftDiff_Balance_DanceDB.gif)
