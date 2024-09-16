@@ -35,7 +35,16 @@ Complete documentation and code will be available when the paper is published.
 ![](assets/SwiftDiff_Photo.gif)
 ##### SwiftDiff_balance
 ![](assets/SwiftDiff_Balance_Photo.gif)
-#### 4. AMASS -- DanceDB
+#### 4. AMASS -- SSM
+##### TransFusion
+![](assets/TransFusion_SSM.gif)
+##### One-step TransFusion
+![](assets/One_Step_TransFusion_SSM.gif)
+##### SwiftDiff
+![](assets/SwiftDiff_SSM.gif)
+##### SwiftDiff_balance
+![](assets/SwiftDiff_Balance_SSM.gif)
+#### 5. AMASS -- DanceDB
 ##### TransFusion
 ![](assets/TransFusion_DanceDB.gif)
 ##### One-step TransFusion
@@ -44,7 +53,7 @@ Complete documentation and code will be available when the paper is published.
 ![](assets/SwiftDiff_DanceDB.gif)
 ##### SwiftDiff_balance
 ![](assets/SwiftDiff_Balance_DanceDB.gif)
-#### 5. AMASS -- DFaust
+#### 6. AMASS -- DFaust
 ##### TransFusion
 ![](assets/TransFusion_DFaust.gif)
 ##### One-step TransFusion
