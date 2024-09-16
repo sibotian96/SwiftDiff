@@ -19,3 +19,12 @@ More prediction demos can be found in `./assets`.
 ![](assets/SwiftDiff_Walking.gif)
 ##### SwiftDiff_balance
 ![](assets/SwiftDiff_Balance_Walking.gif)
+#### 2. Human3.6M -- Walk Together
+##### TransFusion
+![](assets/TransFusion_WalkTogether.gif)
+##### One-step TransFusion
+![](assets/One_Step_TransFusion_WalkTogether.gif)
+##### SwiftDiff
+![](assets/SwiftDiff_WalkTogether.gif)
+##### SwiftDiff_balance
+![](assets/SwiftDiff_Balance_WalkTogether.gif)
