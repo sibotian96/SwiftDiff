@@ -6,7 +6,11 @@
 
 Complete documentation and code will be available when the paper is published.
 
-## 🎞 Demos of Human Motion Prediction
+## 🎞 Demos of Human Motion Prediction on HRC Dataset
+
+![](assets/HRC_Case_1.gif)
+
+## 🎞 Demos of Human Motion Prediction on Benchmark Datasets
 
 #### 1. Human3.6M -- Walking
 ##### TransFusion
