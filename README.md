@@ -6,9 +6,10 @@
 
 Complete documentation and code will be available when the paper is published.
 
-## 🎞 Demos of Human Motion Prediction on HRC Dataset
+## 🎞 Demos of Human Motion Prediction on HRC Dataset (Case 1&2 in the paper)
 
 ![](assets/HRC_Case_1.gif)
+![](assets/HRC_Case_2.gif)
 
 ## 🎞 Demos of Human Motion Prediction on Benchmark Datasets
 
