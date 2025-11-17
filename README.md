@@ -3,8 +3,7 @@
 [Sibo Tian](https://scholar.google.com/citations?hl=en&user=fv-tcZIAAAAJ)<sup>1</sup>, [Minghui Zheng](https://engineering.tamu.edu/mechanical/profiles/zheng-minghui.html)<sup>1,\*</sup>, [Xiao Liang](https://engineering.tamu.edu/civil/profiles/liang-xiao.html)<sup>2,\*</sup>
 
 <sup>1</sup>J. Mike Walker ’66 Department of Mechanical Engineering, Texas A&M University, <sup>2</sup>Zachry Department of Civil and Environmental Engineering, Texas A&M University, <sup>\*</sup>Corresponding Authors
-
-Complete documentation and code will be available when the paper is published.
+## The code will be released soon. If you need access earlier for your research, please feel free to contact Sibo Tian.
 
 ## 🎞 Demos of Human Motion Prediction on HRC Dataset
 
