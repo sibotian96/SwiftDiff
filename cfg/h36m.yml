@@ -1,0 +1,14 @@
+dataset: 'h36m'
+t_his: 25
+t_pred: 100
+n_pre: 20
+multimodal_path: ./data/data_multi_modal/t_his25_1_thre0.500_t_pred100_thre0.100_filtered_dlow.npz
+data_candi_path: ./data/data_multi_modal/data_candi_t_his25_t_pred100_skiprate20.npz
+padding: 'LastFrame'
+Complete: True
+noise_steps: 1000
+ddim_timesteps: 20
+scheduler: 'Cosine' # 'Cosine' 'Linear' 'Sqrt' 'Sigmoid'
+num_heads: 8
+dropout: 0.2
+mod_test: 1.0

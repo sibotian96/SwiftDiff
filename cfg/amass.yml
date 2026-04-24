@@ -1,0 +1,14 @@
+dataset: 'amass'
+t_his: 30
+t_pred: 120
+n_pre: 20
+multimodal_path: None
+data_candi_path: None
+padding: 'LastFrame'
+Complete: True
+noise_steps: 1000
+ddim_timesteps: 50
+scheduler: 'Cosine' # 'Cosine' 'Linear' 'Sqrt' 'Sigmoid'
+num_heads: 8
+dropout: 0.2
+mod_test: 1.0
