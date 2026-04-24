@@ -6,7 +6,9 @@
 
 ## 📢 News
 
-**Inference Code for Human3.6M and AMASS released!**
+**Inference Code for Human3.6M and AMASS released to reproduce the results showing in following tables!**
+![](assets/H36M.png)
+![](assets/AMASS.png)
 
 ## 🛠 Setup
 
